@@ -225,4 +225,4 @@ Install these for better development experience:
 
 ---
 
-*Happy Reading! 📖*
+*Happy Reading! *
