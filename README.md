@@ -107,17 +107,6 @@ npm start
 ✅ Frontend opens at: **http://localhost:3000**
 
 ---
-## Project Screenshot
-
-<img width="950" height="500" alt="Screenshot 2026-04-07 012252" src="https://github.com/user-attachments/assets/bbacb42c-881a-436e-b311-82206402174f" />
-<img width="950" height="500" alt="Screenshot 2026-04-07 012317" src="https://github.com/user-attachments/assets/8463ad2f-7401-4c38-9f55-c00add4e9e84" />
-<img width="950" height="500" alt="Screenshot 2026-04-07 012339" src="https://github.com/user-attachments/assets/6c6b4c7a-154d-45f2-8ffb-c65b6b820fcb" />
-<img width="950" height="500" alt="Screenshot 2026-04-07 012446" src="https://github.com/user-attachments/assets/aa75f0aa-5a32-4fd7-8ed8-f0af9a78e5d0" />
-<img width="950" height="500" alt="Screenshot 2026-04-07 012509" src="https://github.com/user-attachments/assets/fab13c82-ed57-457b-8088-49f6b2e17b17" />
-<img width="950" height="500" alt="Screenshot 2026-04-07 012613" src="https://github.com/user-attachments/assets/044f532e-8c0e-4c5d-a4b4-fb0e5195ce05" />
-<img width="950" height="500" alt="Screenshot 2026-04-07 012635" src="https://github.com/user-attachments/assets/567ead2b-4b48-4110-b226-13e671de97f9" />
-<img width="950" height="500" alt="Screenshot 2026-04-07 012653" src="https://github.com/user-attachments/assets/9108d87a-d7c9-4ab6-8013-d341516577c2" />
-
 ## 🔐 Default Login Credentials
 
 | Role | Email | Password |
